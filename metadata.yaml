@@ -1,0 +1,41 @@
+_repo: Culm-RockThe-Story-of-a-Year--What-it-Brought-and-What-it-Taught_20524
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaylord, Glance
+    aliases:
+    - Ives, William
+    - Bradley, Warren Ives
+    - Bradley, Ives Warren
+    birthdate: 1847
+    deathdate: 1868
+    gutenberg_agent_id: '9357'
+    url: http://www.gutenberg.org/2009/agents/9357
+description: ''
+gutenberg_issued: '2007-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20524'
+  lccn: '41026708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Despair -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'African Americans -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Widowers -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Loyalty -- Juvenile fiction'
+title: 'Culm Rock
+
+  The Story of a Year: What it Brought and What it Taught'
+url: http://www.gutenberg.org/ebooks/20524
