@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '9357'
     url: http://www.gutenberg.org/2009/agents/9357
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20524#Culm-RockThe-Story-of-a-Year--What-it-Brought-and-What-it-Taught
 gutenberg_issued: '2007-02-06'
 gutenberg_type: Text
 identifiers:
